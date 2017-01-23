@@ -7,9 +7,7 @@ captured picture or share it on various apps.
  
 **App Store:** https://appsto.re/us/hnczfb.i
 
-Please contact me if you'd like to contribute: voicecamapp@gmail.com
-
-To give feedback please visit http://voicecamapp.com
+To give us feedback please visit http://voicecamapp.com
 
 
 
